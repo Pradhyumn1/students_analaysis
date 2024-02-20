@@ -7,6 +7,7 @@ logging.basicConfig(level=logging.INFO)
 project_name="students_data"
 
 list_of_files=[
+    ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/components/data_ingestion.py",
@@ -19,9 +20,7 @@ list_of_files=[
     f"src/{project_name}/exception.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
-    "main.py",
     "app.py",
-    "Dockerfile",
     "requirements.txt",
     "setup.py"
 ]
