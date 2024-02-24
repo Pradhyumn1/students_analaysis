@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pradhyumnyadav/Desktop/students_analaysis/mlruns/0/a225b85a3cb8430faf889bd9fd81613d/artifacts
+end_time: 1708809101715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a225b85a3cb8430faf889bd9fd81613d
+run_name: luminous-grub-772
+run_uuid: a225b85a3cb8430faf889bd9fd81613d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708809100105
+status: 3
+tags: []
+user_id: pradhyumnyadav

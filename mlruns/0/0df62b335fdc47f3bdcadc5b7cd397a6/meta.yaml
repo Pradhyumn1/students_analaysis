@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pradhyumnyadav/Desktop/students_analaysis/mlruns/0/0df62b335fdc47f3bdcadc5b7cd397a6/artifacts
+end_time: 1708803735695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df62b335fdc47f3bdcadc5b7cd397a6
+run_name: bedecked-jay-551
+run_uuid: 0df62b335fdc47f3bdcadc5b7cd397a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708803734115
+status: 3
+tags: []
+user_id: pradhyumnyadav

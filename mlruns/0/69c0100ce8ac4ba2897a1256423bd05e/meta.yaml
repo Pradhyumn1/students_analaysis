@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pradhyumnyadav/Desktop/students_analaysis/mlruns/0/69c0100ce8ac4ba2897a1256423bd05e/artifacts
+end_time: 1708808849049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69c0100ce8ac4ba2897a1256423bd05e
+run_name: silent-hog-353
+run_uuid: 69c0100ce8ac4ba2897a1256423bd05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708808847396
+status: 3
+tags: []
+user_id: pradhyumnyadav
